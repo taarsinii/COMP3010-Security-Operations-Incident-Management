@@ -6,6 +6,7 @@ Description: The investigation analyzed a COMP3010CW1.PCAP file to identify whic
 - Wireshark (for packet analysis)
 - VirusTotal (for verifying malicious IPs/domains)
   
-
-
+#
+YouTube Link: https://youtu.be/ra4YI9RCxUo
+#
 Course: COMP3010 Security Operations Incident Management
