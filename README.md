@@ -7,5 +7,5 @@ Description: The investigation analyzed a COMP3010CW1.PCAP file to identify whic
 - VirusTotal (for verifying malicious IPs/domains)
   
 
-Student ID: BSCS2406001
+
 Course: COMP3010 Security Operations Incident Management
